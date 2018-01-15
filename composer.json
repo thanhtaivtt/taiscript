@@ -1,0 +1,16 @@
+{
+	"description": "The make code in script for codeigniter",
+	"name": "thanhtaivtt/taiscript",
+	"version":"1.0.0",
+	"type": "project",
+	"homepage": "http://toidicode.com",
+	"license": "MIT",
+	"require": {
+		"php": ">=5.3.4"
+	},
+	"autoload":{
+                "psr-4":{
+			"Thanhtaivtt\\Taiscript\\":"src/"
+		}
+        }
+}
