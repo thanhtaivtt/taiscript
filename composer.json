@@ -2,7 +2,6 @@
 	"description": "The make code in script for codeigniter",
 	"name": "thanhtaivtt/taiscript",
 	"version":"2.0.2",
-	"type": "project",
 	"homepage": "http://toidicode.com",
 	"license": "MIT",
 	"require": {
