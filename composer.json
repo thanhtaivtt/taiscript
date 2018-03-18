@@ -1,7 +1,6 @@
 {
 	"description": "The make code by script for codeigniter",
 	"name": "thanhtaivtt/taiscript",
-	"version":"2.0.0",
 	"homepage": "http://toidicode.com",
 	"license": "MIT",
 	"require": {
