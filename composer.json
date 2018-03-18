@@ -1,11 +1,17 @@
 {
-	"description": "The make code in script for codeigniter",
+	"description": "The make code by script for codeigniter",
 	"name": "thanhtaivtt/taiscript",
-	"version":"2.0.2",
+	"version":"2.0.0",
 	"homepage": "http://toidicode.com",
 	"license": "MIT",
 	"require": {
-		"php": ">=5.3.4"
+		"php": ">=5.6"
+	},
+	"suggest": {
+		"paragonie/random_compat": "Provides better randomness in PHP 5.x"
+	},
+	"require-dev": {
+		"mikey179/vfsStream": "1.1.*"
 	},
 	"autoload":{
                 "psr-4":{
