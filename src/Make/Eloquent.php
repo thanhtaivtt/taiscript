@@ -35,6 +35,6 @@ class Eloquent
      */
     public function create($name)
     {
-        $this->handle->make('controller', $this->baseFolder . $name);
+        $this->handle->make('Eloquent', $this->baseFolder . $name);
     }
 }
